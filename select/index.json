@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Menghapus Jejakmu",
+  "base_artist": "Peterpan",
+  "createdAt": "2026-03-08T19:53:24.706942Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "peterpan",
+      "has_synced": true,
+      "path": "select/01_Menghapus_Jejakmu_peterpan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Bunga Citra Lestari feat. Ariel NOAH",
+      "has_synced": true,
+      "path": "select/02_Menghapus_Jejakmu_Bunga_Citra_Lestari_feat._Ariel_NOAH.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Bunga Citra Lestari & Ariel NOAH",
+      "has_synced": true,
+      "path": "select/03_Menghapus_Jejakmu_Bunga_Citra_Lestari_&_Ariel_NOAH.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Yeni Inka",
+      "has_synced": true,
+      "path": "select/04_Menghapus_Jejakmu_Yeni_Inka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Bunga Citra Lestari, Ariel NOAH",
+      "has_synced": true,
+      "path": "select/05_Menghapus_Jejakmu_Bunga_Citra_Lestari,_Ariel_NOAH.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Noah feat. Rejoz The GROOVE",
+      "has_synced": true,
+      "path": "select/06_Menghapus_Jejakmu_Noah_feat._Rejoz_The_GROOVE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu (feat. Rejoz TheGROOVE)",
+      "artist": "Noah",
+      "has_synced": true,
+      "path": "select/07_Menghapus_Jejakmu_(feat._Rejoz_TheGROOVE)_Noah.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Bunga Citra Lestari",
+      "has_synced": true,
+      "path": "select/08_Menghapus_Jejakmu_Bunga_Citra_Lestari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Noah",
+      "has_synced": true,
+      "path": "select/09_Menghapus_Jejakmu_Noah.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Peterpan - Menghapus Jejakmu (Official Audio)",
+      "artist": "NOAH OFFICIAL",
+      "has_synced": true,
+      "path": "select/10_Peterpan_-_Menghapus_Jejakmu_(Official_Audio)_NOAH_OFFICIAL.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Bunga Citra Lestari",
+      "has_synced": true,
+      "path": "select/11_Menghapus_Jejakmu_Bunga_Citra_Lestari.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Felix Irwan",
+      "has_synced": true,
+      "path": "select/12_Menghapus_Jejakmu_Felix_Irwan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Felix Irwan",
+      "has_synced": true,
+      "path": "select/13_Menghapus_Jejakmu_Felix_Irwan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Noah, Rejoz The GROOVE, Rejoz",
+      "has_synced": true,
+      "path": "select/14_Menghapus_Jejakmu_Noah,_Rejoz_The_GROOVE,_Rejoz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Peterpan",
+      "has_synced": true,
+      "path": "select/15_Menghapus_Jejakmu_Peterpan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu (feat. Rejoz TheGROOVE)",
+      "artist": "NOAH",
+      "has_synced": true,
+      "path": "select/16_Menghapus_Jejakmu_(feat._Rejoz_TheGROOVE)_NOAH.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Menghapus Jejakmu",
+      "artist": "Bunga Citra Lestari",
+      "has_synced": true,
+      "path": "select/17_Menghapus_Jejakmu_Bunga_Citra_Lestari.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Menghapus Jejakmu",
+      "artist": "Peterpan",
+      "has_synced": false,
+      "path": "select/pl_01_Menghapus_Jejakmu_Peterpan.txt"
+    }
+  ]
+}
