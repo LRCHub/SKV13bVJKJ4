@@ -1,0 +1,53 @@
+# Peterpan – Menghapus Jejakmu
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:17.78] Terus melangkah melupakanmu
+[00:21.57] Lelah hati perhatikan sikapmu
+[00:25.15] Jalan pikiranmu buatku ragu
+[00:28.99] Tak mungkin ini tetap bertahan
+[00:43.99] 
+[00:32.93] Perlahan mimpi terasa mengganggu
+[00:36.77] Kucoba untuk terus menjauh
+[00:40.56] Perlahan hatiku terbelenggu
+[00:44.45] Kucoba untuk lanjutkan hidup
+[00:58.45] 
+[00:49.83] Engkau bukanlah segalaku
+[00:53.95] Bukan tempat 'tuk hentikan langkahku
+[00:57.84] Usai sudah, semua berlalu
+[01:01.70] Biar hujan menghapus jejakmu
+[01:15.70] 
+[01:07.46] Terus melangkah melupakanmu
+[01:11.47] Lelah hati perhatikan sikapmu
+[01:14.91] Jalan pikiranmu buatku ragu
+[01:19.09] Tak mungkin ini tetap bertahan
+[01:34.09] 
+[01:22.85] Perlahan mimpi terasa mengganggu
+[01:26.61] Kucoba untuk terus menjauh
+[01:30.43] Perlahan hatiku terbelenggu
+[01:34.21] Kucoba untuk lanjutkan hidup
+[01:48.21] 
+[01:38.17] Engkau bukanlah segalaku
+[01:41.99] Bukan tempat 'tuk hentikan langkahku
+[01:45.99] Usai sudah, semua berlalu
+[01:49.69] Biar hujan menghapus jejakmu
+[02:03.69] 
+[01:56.22] Lepaskan segalanya
+[02:00.43] Lepaskan segalanya
+[02:09.43] 
+[02:10.78] Engkau bukanlah segalaku
+[02:14.65] Bukan tempat 'tuk hentikan langkahku
+[02:18.64] Usai sudah, semua berlalu
+[02:22.40] Biar hujan menghapus jejakmu
+[02:36.40] 
+[02:25.89] Engkau bukanlah segalaku
+[02:30.02] Bukan tempat 'tuk hentikan langkahku
+[02:33.88] Usai sudah, semua berlalu
+[02:37.65] Biar hujan menghapus jejakmu
+[02:51.65] 
+[02:42.02] Na-na-na-na-na, na-na-na-na-na
+[02:45.91] Na-na-na-na-na, na-na-na-na-na
+[02:49.52] Na-na-na-na-na, na-na-na-na-na
+[02:53.49] Na-na-na-na-na, na-na-na-na-na
+```
